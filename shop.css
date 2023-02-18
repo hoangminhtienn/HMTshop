@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    align-items: center;
+}
+
+.total {
+    display: flex;
+    justify-content: center;
+}
+
+.item {
+    margin-left: 6px;
+}
+
+.mid {
+    margin-top: 50px;
+}
+
+button {
+    width: 500px;
+    height: 50px;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+}
+
+button:hover {
+    background-color: red;
+}
+
+.ship {
+    margin-top: 50px;
+}
+
+img {
+    margin-top: 50px;
+    height: 200px;
+}

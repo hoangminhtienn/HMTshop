@@ -1,0 +1,47 @@
+body {
+    margin-left: 650px;
+    margin-top: 200px;
+    background-image: url(images/backr.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+form {
+    width: 300px;
+    height: 300px;
+    border: 3px solid black;
+    border-radius: 10px;
+    background: linear-gradient(gray, lightgray);
+
+}
+
+.in-name {
+    width: 250px;
+    height: 20px;
+    border: 3px solid black;
+    border-radius: 10px;
+    color: red;
+    outline: none;
+}
+
+.name,
+.pass,
+.email {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.button {
+    margin-top: 20px;
+    margin-left: 110px;
+}
+
+.signup {
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+button:hover {
+    border: 3px solid black;
+    color: red;
+}
